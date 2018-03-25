@@ -5,15 +5,16 @@ permalink: /about/
 ---
 
 ## 身分
-大学生(2018年現在)．平民．
+機械科の大学生(2018年現在)．
 
 ## 趣味・好きなもの
 プログラミング/漫画/アニメ/動物/読書
 
 ## リンク
+現在はマストドンにいます．
 
-* [Twitter - @TonyMooori]()
 * [Mastodon - @TonyMoooori@mstdn.jp](https://mstdn.jp/@TonyMoooori)
+* [Twitter - @TonyMooori](https://twitter.com/TonyMooori)
 * [GitHub - @TonyMooori](https://github.com/TonyMooori/)
 * [YouTube - TonyMooori](https://www.youtube.com/channel/UC65EnthiaOclVsl-B9F4W8A)
 * [ニコニコ動画 もりとにー](http://www.nicovideo.jp/user/53332547)
