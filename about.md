@@ -40,3 +40,5 @@ permalink: /about/
 +++.------------.++++++++.+++.[-->+<]>-- 
 ------.--[--->+<]>-.++++++++++++.--.
 {% endhighlight %}
+
+<a rel="me" href="https://mstdn.jp/@TonyMoooori"></a>
